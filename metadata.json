@@ -1,0 +1,6 @@
+{
+  "name": "서울 미식 가이드",
+  "description": "서울 대표 맛집, 미슐랭/블루리본 선정 식당, 핫플레이스 및 골목 노포를 엄선하여 소개하고 맞춤형 식도락 코스를 추천하는 서울 맛집 큐레이션 플랫폼",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
